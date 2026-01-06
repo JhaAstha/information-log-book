@@ -24,3 +24,22 @@ sorting   - to display data in order
 
 
 
+sample operation:-
+
+  add contact
+
+  search contact
+
+  delete cobtact
+
+  display contact
+
+
+  exit
+
+
+  
+
+
+
+
