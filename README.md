@@ -11,7 +11,7 @@ This project demonstrates practical usage of arrays / linked lists, structures, 
 DSA concept  used:-
 
 
-structure  -to store details
+structure  -  to store details of all contacts
 
 arrays  - to manage multiple contacts
 
