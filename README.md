@@ -28,7 +28,7 @@ sorting   - to display data in order
 
 
 
-sample operation:-
+sample operation that one can perform using this:-
 
   add contact
 
